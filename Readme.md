@@ -29,5 +29,3 @@ This portfolio website is built with modern web technologies and libraries. It i
 - **Zod**: Type-safe schema validation library used with React Hook Form.
 - **EmailJS**: Service to send emails directly from the client-side.
 - **Vite**: Build tool that provides fast development and optimized builds.
-- **TypeScript**: Superset of JavaScript that provides static typing (if applicable).
-
